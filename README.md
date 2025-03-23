@@ -2,7 +2,7 @@
 
 <p align="center">
   Seattle, WA | 425-358-1425 | <a href="mailto:jakepknowles@gmail.com">jakepknowles@gmail.com</a> | 
-  <a href="https://linkedin.com/in/jakepknowles">LinkedIn</a>
+  <a href="https://linkedin.com/in/jake-knowles">LinkedIn</a>
 </p>
 <p align="center">
   Senior Android Software Engineer
