@@ -23,7 +23,7 @@ Kotlin, Java, Gradle, XML, SQL, SQLite, Room, REST, WebSockets
 
 <h2 align="center">Work Experience</h2>
 
-### **Senior Android Software Engineer**
+**Senior Android Software Engineer**  
 **Procore Technologies**, Remote  
 *Jan 2020 – Present*
 
@@ -48,7 +48,7 @@ Unearth Technologies was a map-based software startup acquired by Procore in Sep
 - Sole Android developer at the time of acquisition, responsible for app maintenance and knowledge transfer during the transition to Procore.
   - Tech Stack: Kotlin, RxJava, WebSockets, Mapbox, SpatiaLite, GitHub Actions, Retrofit, XML, JSON, MVP, MVVM, Firebase, JIRA, Invision, Datadog
  
-### **Lead Android Developer**
+**Lead Android Developer**  
 **BaseMap**, Bothell (WA)  
 *Jul 2018 – Jan 2020*  
 
@@ -59,7 +59,7 @@ BaseMap is a map-based hunting/hiking/fishing software startup.
 - Promoted to Lead Developer within 8 months, grew the Android team from 1 to 3 engineers, introduced agile workflows, and facilitated sprint planning and retros to improve team velocity and communication.
   - Tech Stack: Java, Kotlin, RxJava, Mapbox, SQLite, Dagger, XML, JSON, Retrofit, MVP, Firebase, JIRA, Invision, Bitbucket, Countly
 
-### **Software Engineer**
+**Software Engineer**  
 **Boeing**, Everett (WA)  
 *Mar 2018 – Jun 2018*
 
@@ -67,13 +67,12 @@ Boeing is a global aerospace company.
 Interactive Window (3 month contract)
 - Collaborated with UX and hardware teams to develop a POC Android app for interactive airplane windows, contributing to next-gen in-flight entertainment concepts.
   - Tech Stack: Java, REST APIs, Retrofit, JSON, XML
- 
-### **Software Engineer Intern**
+
+**Software Engineer Intern**  
 **Data I/O**, Redmond (WA)  
 *Jun 2017 – Feb 2018*
 
 Data I/O is a global provider of advanced data and security programming solutions for flash, microcontrollers, and logic devices.
-
 - Re-engineered a legacy log file collector tool for the PSV7000 device, improving maintainability and enabling better diagnostics for support and QA teams.
   - Tech Stack: C#, Delphi, XAML, Visual Studio
 
