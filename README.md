@@ -36,6 +36,7 @@ Unearth Technologies was a map-based software startup acquired by Procore in Sep
 - Mentored and led a distributed team across a 12-hour time zone gap. Introduced async workflows, instituted code quality standards, and drove a culture of knowledge sharing — improving team velocity, reducing rework, and enabling independent feature delivery across time zones.
 - Set up a CircleCI CI/CD pipeline with automated testing and a 60% SonarQube coverage threshold, improving test reliability and enabling integration workflows for the maps mobile team.
 - Documented Maps SDK design decisions and architecture tradeoffs, accelerating onboarding and improving cross-team decision-making of map-based systems, and facilitated alignment with Principal and Staff Engineers across Android & iOS teams.
+- Maintained the Procore Maps SDK as an internal GitHub repository; authored reusable components, managed releases, and wrote developer-facing documentation for adoption across multiple mobile teams.
   - Tech Stack: Kotlin, MapLibre, Coroutines, LiveData, Flows, Artifactory, Gradle, XML, CircleCI, SpatiaLite, SQL, Room, MVVM, LaunchDarkly, New Relic, Amplitude, JIRA, Figma, Firebase, Robolectric, Espresso, Mockito, JUnit, SonarQube, Confluence
 
 #### Pre-Acquisition – Android Software Engineer III at Unearth Technologies (Jan 2020 – Sep 2023)
