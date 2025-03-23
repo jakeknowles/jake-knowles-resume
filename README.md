@@ -67,6 +67,7 @@ Boeing is a global aerospace company.
 Interactive Window (3 month contract)
 - Collaborated with UX and hardware teams to develop a POC Android app for interactive airplane windows, contributing to next-gen in-flight entertainment concepts.
   - Tech Stack: Java, REST APIs, Retrofit, JSON, XML
+ 
 ### **Software Engineer Intern**
 **Data I/O**, Redmond (WA)  
 *Jun 2017 – Feb 2018*
