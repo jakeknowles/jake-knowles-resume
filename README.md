@@ -32,7 +32,7 @@ Unearth Technologies was a map-based software startup acquired by Procore in Sep
 
 #### Post-Acquisition – Senior Android Software Engineer (Sep 2023 – Present)
 - Built Procore’s first Android Maps SDK and rolled it out to 15,000+ construction companies in 6 months — simplified jobsite photo discovery by removing 3 screens/taps, enabling location-based access over static lists.
-- Modularized the new Maps SDK and published it as a precompiled .aar, ensuring the new feature didn’t impact overall app build times — this approach avoided local SDK recompilation and influenced broader modularization efforts across the mobile org.
+- Modularized the new Maps SDK and published it as a precompiled .aar package, ensuring the new feature didn’t impact overall app build times — this approach avoided local SDK recompilation and influenced broader modularization efforts across the mobile org.
 - Mentored and led a distributed team across a 12-hour time zone gap. Introduced async workflows, instituted code quality standards, and drove a culture of knowledge sharing — improving team velocity, reducing rework, and enabling independent feature delivery across time zones.
 - Set up a CircleCI CI/CD pipeline with automated testing and a 60% SonarQube coverage threshold, improving test reliability and enabling integration workflows for the maps mobile team.
 - Documented Maps SDK design decisions and architecture tradeoffs, accelerating onboarding and improving cross-team decision-making of map-based systems, and facilitated alignment with Principal and Staff Engineers across Android & iOS teams.
@@ -65,7 +65,7 @@ BaseMap is a map-based hunting/hiking/fishing software startup.
 *Mar 2018 – Jun 2018*
 
 Boeing is a global aerospace company.  
-Interactive Window (3 month contract)
+Interactive Window (3-month contract)
 - Collaborated with UX and hardware teams to develop a POC Android app for interactive airplane windows, contributing to next-gen in-flight entertainment concepts.
   - Tech Stack: Java, REST APIs, Retrofit, JSON, XML
 
