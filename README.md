@@ -9,7 +9,7 @@
 </p>
 <h2 align="center">About Me</h2>
 
-Software Engineer with 7 years of experience building Android map-based applications, specializing in offline-first architectures, geospatial visualization, and real-time data sync. I enjoy working across the entire app lifecycle—from architecture to release—and believe strongly in cross-functional team collaboration. More than just shipping code, I am passionate about building systems that are easy for other developers to extend and maintain, and I take pride in mentoring teammates, shaping engineering culture, and raising team effectiveness through documentation, async workflows, and shared technical ownership. Always curious to explore new technologies and industries. Looking to join a team where thoughtful engineering and product impact go hand-in-hand.
+Software Engineer with 7 years of experience building Android applications, specializing in maps, offline-first architecture, and geospatial data visualization. I enjoy working across the entire app lifecycle—from architecture to release—and believe strongly in cross-functional team collaboration. More than just shipping code, I am passionate about building systems that are easy for other developers to extend and maintain, and I take pride in mentoring teammates, shaping engineering culture, and raising team effectiveness through documentation, async workflows, and shared technical ownership. Always curious to explore new technologies and industries. Looking to join a team where thoughtful engineering and product impact go hand-in-hand.
 
 <h2 align="center">Technical Skills</h2>
 
